@@ -1,1 +1,2 @@
-# Customer_Satisfaction_Prediction
+## Customer_Satisfaction_Prediction
+This project applies statistical learning methods to predict customer satisfaction scores using real-world feedback and demographic data. The dataset includes various customer attributes such as age, gender, country, income, product quality ratings, service quality ratings, feedback categories, loyalty levels, and purchase behavior. The goal is to identify the most influential factors affecting customer satisfaction and develop predictive models to forecast satisfaction scores effectively.
